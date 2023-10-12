@@ -76,7 +76,7 @@ Retrieves all rows when there is a match in either the left or the right table. 
 
 Code:
 The demo of our code to illustrate joins can be found here:
-[Sample Query](/SQL_Final_Project.sql)
+[Final Project Query](/SQL_Final_Project.sql)
 
 
 ## Authors
