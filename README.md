@@ -57,13 +57,16 @@ Basically, the right join is just doing left join in the reversely, as they are 
 
 **FULL(OUTER)Join**
 
-Retrieves all rows when there is a match in either the left or the right table. If there is no match in one of the tables, NULL values are returned for columns from the table without a match. Not like the cross join, this would not generate that much redundancy, and keeps all the information from the two tables. Hence this would take into account the null values in Hobbys & Interests
+Retrieves all rows when there is a match in either the left or the right table. If there is no match in one of the tables, NULL values are returned for columns from the table without a match. Not like the cross join, this would not generate that much redundancy, and keeps all the information from the two tables. Hence this would take into account the null values in Hobbys & Interests.
+
+![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/5eacd35d-774d-4508-8f4b-a6c9e01c8910)
+
 
 
 
 Code:
 The demo of our code to illustrate joins can be found here:
-[Sample Query](/Code_Demo.sql)
+[Sample Query](/SQL_Final_Project.sql)
 
 
 ## Authors
