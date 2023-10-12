@@ -13,7 +13,7 @@ Our database consists of two tables.
 This table has the student id, name & a temporaily empty column of hobby id.
 
 ![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/4819c21e-3231-43aa-b3b4-43ec024cb718)
-![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/7437a773-7db1-4895-a7f2-a36062a17120)
+
 
 
 
@@ -56,6 +56,8 @@ Retrieves all rows from the left/right table (the first/second table specified) 
 Basically, the right join is just doing left join in the reversely, as they are using the same logic just in the different order.
 
 ![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/ec9cbe75-8ccd-4871-bf98-35dca8f13055)
+![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/47da5d0f-859b-485c-a067-787069d53f06)
+
 
 
 
