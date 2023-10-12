@@ -40,6 +40,9 @@ We are going to go around the class and ask each group to pick their favourite h
 
 An Inner Join is a type of SQL operation used to combine rows from two or more tables based on a related column between them. It returns only the rows for which there is a match in both tables, effectively filtering out rows that do not have corresponding values in the specified columns. Since we have more groups than hobbies, one of the groups will be left out when performing an inner join.
 
+![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/f69dcc91-3551-4a8e-ac55-c673b18dd65a)
+
+
 
 
 
