@@ -52,6 +52,11 @@ An Inner Join is a type of SQL operation used to combine rows from two or more t
 
 Retrieves all rows from the left/right table (the first/second table specified) and the matching rows from the right/right table (the second table specified). If there is no match in the right/left table, NULL values are returned for columns from the right/left table.
 Basically, the right join is just doing left join in the reversely, as they are using the same logic just in the different order.
+
+![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/ec9cbe75-8ccd-4871-bf98-35dca8f13055)
+
+
+
  
 
 
