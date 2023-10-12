@@ -24,7 +24,8 @@ This table has the student id, name & a temporaily empty column of hobby id.
 
 This table has the hobby & hobby id.
 
-![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/14ae005a-919c-483f-9c88-f1afe7aad4c0)
+![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/2c0d5763-c6ef-4f72-8cce-c80236979586)
+
 
 
 
