@@ -22,7 +22,8 @@ This table has the student id, name & a temporaily empty column of hobby id.
 
 This table has the hobby & hobby id.
 
-![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/b505f9ae-cdce-43a2-bc9f-1f918230c71e)
+![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/14ae005a-919c-483f-9c88-f1afe7aad4c0)
+
 
 
 
@@ -38,6 +39,8 @@ We are going to go around the class and ask each group to pick their favourite h
 **INNER Join**
 
 An Inner Join is a type of SQL operation used to combine rows from two or more tables based on a related column between them. It returns only the rows for which there is a match in both tables, effectively filtering out rows that do not have corresponding values in the specified columns. Since we have more groups than hobbies, one of the groups will be left out when performing an inner join.
+
+
 
 
 
