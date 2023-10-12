@@ -11,6 +11,9 @@ Our database consists of two tables.
 
 This table has the student id, name & a temporaily empty column of hobby id.
 
+![image](https://github.com/PiaoLing-nb/comm-final-presentation/assets/138830908/4819c21e-3231-43aa-b3b4-43ec024cb718)
+
+
 
 
 
